@@ -48,13 +48,13 @@ global.botname = '𝙈𝙕𝙉 - 𝙒𝘼 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "MZN - BOTS" // sticker packname
 global.author = "Maazin King" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-MD ]' //In list menu
+global.footer = '[ ᴍᴢɴ ʙᴏᴛꜱ-ᴍᴅ ]' //In list menu
 
-global.button = 'GITHUB' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/' //Change Your Button's URL
+global.button = 'YOUTUBE CHANNEL' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://youtube.com/channel/UCjLWEJScBReyaCgHh0bFiTw' //Change Your Button's URL
 
 //damtabase
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94771227821'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
